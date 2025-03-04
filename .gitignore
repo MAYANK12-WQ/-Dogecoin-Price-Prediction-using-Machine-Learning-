@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data Files (if any)
+data/
+*.csv
+*.xlsx
+
+# Logs & Temporary Files
+logs/
+*.log
+*.tmp
+
+# Models
+models/
+*.h5
+*.pkl
